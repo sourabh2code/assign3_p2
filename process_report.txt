@@ -1,0 +1,17 @@
+ PROCESS REPORT 
+Process name: 33260
+Process 33260 is running.
+
+Process details:
+  501 33260 33259   0 11:11PM ttys000    0:00.16 -bash
+  501 33784 33260   0 12:00AM ttys000    0:00.01 /bin/bash ./tempshell.sh 33260
+
+PID:
+33260
+33784
+33785
+
+CPU and Memory usage:
+CPU: 33259%  Memory: 0%
+CPU: 33260%  Memory: 0%
+CPU: 33784%  Memory: 0%
