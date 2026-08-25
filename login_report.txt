@@ -1,0 +1,30 @@
+LOGIN REPORT
+
+Currently logged-in users:
+sourabhpatel console Aug 5 00:10
+sourabhpatel ttys000 Aug 25 23:11
+
+Login time of each user:
+sourabhpatel Aug 5
+sourabhpatel Aug 25
+
+Number of logged-in users:
+2
+
+Checking whether sourabhpatel is currently logged in:
+sourabhpatel is currently logged in.
+
+Last 10 user logins:
+sourabhpatel ttys000 Tue Aug 25 23:11 still logged in
+sourabhpatel ttys000 Fri Aug 21 10:21 - 10:21 (00:00)
+sourabhpatel ttys000 Thu Aug 20 19:26 - 19:26 (00:00)
+sourabhpatel ttys000 Thu Aug 20 18:30 - 18:30 (00:00)
+sourabhpatel ttys000 Thu Aug 20 16:59 - 16:59 (00:00)
+
+Number of unique users who logged in:
+1
+
+Most recent logins:
+sourabhpatel ttys000 Tue Aug 25 23:11 still logged in
+sourabhpatel ttys000 Fri Aug 21 10:21 - 10:21 (00:00)
+sourabhpatel ttys000 Thu Aug 20 19:26 - 19:26 (00:00)

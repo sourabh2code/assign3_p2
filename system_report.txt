@@ -1,0 +1,22 @@
+SYSTEM INFORMATION REPORT
+
+Current date and time:
+Tue Aug 25 23:53:06 IST 2026
+
+Current logged-in user:
+sourabhpatel
+
+Hostname:
+Sourabhs-MacBook-Air.local
+
+Current working directory:
+/Users/sourabhpatel/Documents/Codex/2026-08-25/in
+
+Available disk space:
+/dev/disk3s1s1   228Gi total, 12Gi used, 83Gi available, 13% used
+
+Available memory:
+Not reported: the assignment's `free -h` command is Linux-only; macOS does not provide `free` by default.
+
+System uptime:
+23:53  2 users, load averages: 1.76 1.44 1.32
